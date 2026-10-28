@@ -1,5 +1,5 @@
-<p align ="center">${\textsf{\color{#580C11} My last friend. }}$
-<p align ="center">${\textsf{\color{#580C11} Why? }}$
+<p align ="center">${\textsf{\color{#ffffff} My last friend. }}$
+<p align ="center">${\textsf{\color{#ffffff} Why? }}$
 
 <P align="center"> <img width="110" height="235" alt="Sorrow_Render" src="https://github.com/user-attachments/assets/6dcaee69-822b-4107-be5e-3139c1e99c1c" />
 
